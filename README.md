@@ -8,14 +8,8 @@
 - X-Gorgon Generator
 - X-Khronos Generator
 - X-Ladon Generator
-- X-App-Log Generator
 - X-Ss-Stub Generator
-```
-
-## Coming tool(s)
-
-```
-- X-Log Generator
+- DevReg (Register random devices so you can use them for tiktok abusing)
 ```
 
 ## API-WRAPPER
