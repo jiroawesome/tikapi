@@ -27,7 +27,6 @@
 ![](https://capy-cdn.xyz/fWTKXLurnp7S.png)
 ![](https://capy-cdn.xyz/3VgSShH1Ez4g.png)
 
-https://cdn.discordapp.com/attachments/956855483858300968/1004283522565017600/1659510085236.mp4
 
 ## API-KEY
 
